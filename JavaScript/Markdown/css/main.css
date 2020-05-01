@@ -1,0 +1,30 @@
+header h1 {
+    text-align: center;
+}
+
+main {
+    width: 1060px;
+    margin: 30px auto;
+    display: flex;
+}
+
+article {
+    width: calc(100% / 2 - 100px);
+}
+
+textarea {
+    width: 100%;
+}
+
+aside {
+    margin-left: 100px;
+    padding: 20px 30px;
+    background: white;
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.2);
+    width: calc(100% / 2 - 100px);
+}
+
+aside>h2 {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    padding-bottom: 15px;
+}

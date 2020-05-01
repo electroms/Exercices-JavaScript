@@ -1,0 +1,6 @@
+Audrey je te joins au fichier main.js un .txt pour que tu puisse les diférencier.
+J'ai bloqué qur l'affichage de la carte tiré d'une li pour l'afficher dans ul#tirage, malheuresement je n'y suis pas arrivé.
+Ce n'est pas faute d'avoir essayé j'y ai passé au moins 2h30.
+Je te le rends comme ça, ja'i tout essayé.
+Bon week end
+Pierre-Henry
